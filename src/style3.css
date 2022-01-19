@@ -1,0 +1,63 @@
+body{
+	color: violet;
+	background-color: black;
+	font-size: 30px;
+}
+
+.bezzazn{
+	-webkit-user-select: none;  
+	-moz-user-select: none;     
+	-ms-user-select: none;      
+	user-select: none; 
+	
+}
+
+#przycisk{
+	span-align: center;
+	margin:auto;
+}
+
+.przyc{
+  background-color: green; 
+  text-align: center;
+  cursor: pointer;
+  border: 2.5px solid white;
+  border-radius: 15px;
+  display: inline-block;
+  padding: 2px 60px;
+  width: 92%;
+  }
+  
+.przyc:hover{
+	background-color: yellow; 
+}
+
+#pole{
+	width: 98%;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+.poj{
+
+	width:24px;
+	height:40px;
+	text-align:center;
+	padding: 3px 16px;
+	margin: 0px;
+	border:1.2px solid dimgray;
+	float: left;
+	cursor: pointer;
+	border-radius: 4px;
+	background-color: lavender;
+	
+	
+}
+
+.poj:hover{
+	background-color: yellow;
+	color: violet;	
+}
+
